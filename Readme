@@ -1,0 +1,5 @@
+Sau khi build xong project, ta tạo ra thêm 1 file php (anh vào file index.php để đọc kỹ hơn nhé ạ).
+Sau đó đưa vào thư mục wp_plugin trong thư mục wp_content trong thư mục wordpress là sẽ tự xuất hiện plugin của mình
+trong trang quản lý của admin ạ.
+
+(Em cũng chưa hiểu rõ lắm đâu, em cũng mới đọc chút về php với cả cách tạo plugin thôi ạ)
